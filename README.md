@@ -240,5 +240,6 @@ The same concepts can be applied to e-commerce fulfillment, retail warehouses, d
 inventory-optimization-eoq/
 │
 ├── README.md
-│
-└── Inventory_EOQ_Reorder_Point_Analysis.xlsx
+├── Inventory_EOQ_Reorder_Point_Analysis.xlsx
+└── inventory-analysis.png
+
